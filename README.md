@@ -20,7 +20,7 @@ As tabelas e comandos são criados automaticamente pelo Sequelize ao rodar o pro
 # Como Rodar a API
 
 ```
-git clone https://github.com/seu-usuario/sua-Api-Financeira.git
+git clone https://github.com/cleidesales/Finance-API.git
 ```
 ```
 cd https://github.com/cleidesales/Finance-API.git
