@@ -28,7 +28,7 @@ cd https://github.com/cleidesales/Finance-API.git
 ```
 npm install
 ```
-Crie um arquivo .envna raiz do projeto com o conteúdo:
+Crie um arquivo .env na raiz do projeto com o conteúdo:
 ```
 DB_USERNAME=root
 DB_PASSWORD=
