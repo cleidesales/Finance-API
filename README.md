@@ -85,7 +85,7 @@ Body (JSON) (colocar usuarioside e categoriasidcom com ids já criados):
   "categoriasid": 1
 }
 ```
-2. Consultas:
+# Consultas:
 
 GET http://localhost:3000/usuarios
 
