@@ -23,7 +23,7 @@ As tabelas e comandos são criados automaticamente pelo Sequelize ao rodar o pro
 git clone https://github.com/seu-usuario/sua-Api-Financeira.git
 ```
 ```
-cd
+cd https://github.com/cleidesales/Finance-API.git
 ```
 ```
 npm install
