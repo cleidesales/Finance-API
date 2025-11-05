@@ -44,9 +44,11 @@ node app.js
 ```
 # Endpoints
 
-/usuarios(GET/POST)
-/categorias(GET/POST)
-/transacoes(GET/POST)
+/usuarios(GET/POST).
+
+/categorias(GET/POST).
+
+/transacoes(GET/POST).
 
 # Testes via Postman
 1. Requisições de:
